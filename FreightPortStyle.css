@@ -12,6 +12,7 @@
 #FreightPorts .rank-box > div > div > p{}
 
 #FreightPorts .big-blue-text{font-size:36px; font-weight:bold; color: #20558a; margin:5px 0px 5px 0px;}
+#FreightPortsWrap #freight-ports-metro{font-size:36px; font-weight:bold; color: #20558a; margin:5px 0px 8px 0px; font-family:Georgia, arial, helvetica;}
 #FreightPorts .rank-box-title{font-weight:bold;font-size:16px;}
 #FreightPorts .rank-box-footer{color: #999999;font-style:italic; font-size:13px;}
 
