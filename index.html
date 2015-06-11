@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>PORTS</title>
+
+	<!--<link rel="stylesheet" type="text/css" href="/~/media/multimedia/interactives/2015/FreightPorts/FreightPortStyle.css">-->
+	<link rel="stylesheet" type="text/css" href="./FreightPortStyle.css">
+	<script src="./d3min.js"></script>
+</head>
+
+<body style="max-width:950px;">
+	<div id="FreightPorts" style="min-width:300px;padding-bottom:1%;border:1px solid #dddddd; border-width:1px 0px 1px 0px;" class="clear-fix">
+		<div class="clear-fix">
+			<div class="rank-box" style="background-color:#dddddd;">
+				<div>
+					<p>What is a port?</p>
+				</div>
+			</div>
+			<div class="rank-box">
+				<div>
+					<div>
+						<p class="rank-box-title">Total value of port trade</p>
+					</div>
+					<p id="port-total-val" class="big-blue-text"></p>
+					<p id="port-total-rank" style="font-size:13px;">Rank: Xth of ...</p>
+				</div>
+			</div>
+			<div class="rank-box">
+				<div>
+					<div>
+						<p class="rank-box-title">Local share of port trade value</p>
+					</div>
+					<p id="port-total-local" class="big-blue-text"></p>
+					<p class="rank-box-footer">Should we add definition here?</p>
+				</div>
+			</div>
+		</div>
+		<div class="clear-fix" style="">
+			<div id="freight-port-mode">
+				<p class="rank-box-title"  style="margin-bottom:5px;">Top 5 modes used to move international freight</p>
+				<svg style="height:185px;width:115%;">
+					<g id="freight-port-mode-plot" transform="translate(1,0)"></g>
+					<g id="freight-port-mode-anno" transform="translate(1,0)"></g>
+				</svg>	
+			</div>
+			<div id="freight-port-comm">
+				<p class="rank-box-title" style="margin-bottom:5px;">Top 5 commodities</p>	
+				<svg style="height:185px;width:115%;">
+					<g id="freight-port-comm-plot" transform="translate(1,0)"></g>
+					<g id="freight-port-comm-anno" transform="translate(1,0)"></g>
+				</svg>	
+			</div>
+		</div>
+		<div class="clear-fix" style="">
+			<div id="freight-port-odi">
+				<p class="rank-box-title" style="margin-bottom:10px;">Top 10 international origins and/or destinations</p>	
+			</div>
+			<div id="freight-port-odd">
+				<p class="rank-box-title" style="margin-bottom:10px;">Top 10 domestic origins and/or destinations</p>	
+			</div>
+		</div>
+
+	</div>
+
+
+	<!--<div id="CityIncomes" style="position:relative;min-width:300px;">
+
+		<div style="width:100%;margin:10px 0px 0px 0px;">
+			<div style="border:1px solid #999999; padding:0px;" class="clear-fix">
+				<p id="sort-rank-button" style="font-size:13px;padding:8px 0px 0px 0px;">Sort and rank places by percent of households with incomes:</p>
+				<div class="pctl-button" id="select-p20_1"><div></div><p>Less than $21,433</p></div>
+				<div class="pctl-button" id="select-p20_2"><div></div><p>$21,433 to $41,109</p></div>
+				<div class="pctl-button" id="select-p20_3"><div></div><p>$41,110 to $65,952</p></div>
+				<div class="pctl-button" id="select-p20_4"><div></div><p>$65,953 to $106,100</p></div>
+				<div class="pctl-button" id="select-p15_5"><div></div><p>$106,101 to $200,000</p></div>
+				<div class="pctl-button button-selected" id="select-p5_5"><div></div><p>Greater than $200,000</p></div>
+				
+				<div style="width:100%;height:10px;position:relative;clear:both;border-bottom:1px solid #999999;"></div>
+				
+				<input type="text" id="place-search" placeholder="Search for a place" style="float:left; padding-top:4px; padding-bottom:3px; font-size:13px;background-color:#ffffff;line-height:18px;border:none;" id="city-search"/>
+				<div style="float:right; border-style:solid; border-color:#999999; cursor:pointer; position:relative;" id="limit-100k" class="limit-100k-selected">
+					<div>
+						<div></div>
+					</div>
+					<p style="font-size:13px;line-height:18px;padding-top:6px;padding-bottom:1px;padding-left:27px;pointer-events:none;">Only show cities with at least 100,000 households</p>
+				</div>
+			</div>
+
+		</div>
+
+		<div style= "background-color:#ffffff;border:1px solid #999999;border-width:0px 1px 1px 1px;padding:8px 0px 10px 0px;">
+			<div id="PinnedList" style="max-height:400px;overflow:hidden;overflow-y:auto;padding-right:5px; position:relative;">
+			</div>
+		</div>
+		<div style="padding:1px 0px 1px 0px;border:1px solid #999999; border-width:0px 1px 1px 1px;">
+			<div id="CityList" style="max-height:600px;min-height:50px;overflow:hidden;overflow-y:auto;padding-right:5px;position:relative;">
+				<div id="width-sampler" style="width:100%;height:1px;background:#ffffff;border:none"></div>
+			</div>
+		</div>
+	</div>-->
+</body>
+
+<script src="./FreightPorts.js"></script>
+
+</html>

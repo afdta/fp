@@ -1,0 +1,1225 @@
+"Port_Code","Port","Int_Code","Intl_Geography","Group_ID","I_Mode","Value_2010","Weight"
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","01",3,9.70,4.39
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","01",4,0.02,1.19524198627809e-03
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","01",5,0.02,1.75463082127753e-03
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","02",3,5.3563279635e-03,0.02
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","04",3,0.52,0.20
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","05",3,0.06,0.07
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","06",3,0.34,0.01
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","06",4,0.03,5.50000024000001e-04
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","06",5,1.8872206e-04,7.86341916666665e-06
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","07",3,0.01,0.02
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","08",3,2.73,0.22
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","08",4,0.08,8.50000009000004e-04
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","09",4,0.19,1.54999996799999e-03
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","10",3,0.38,0.06
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","11",4,0.52,4.50000020999999e-04
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","17",3,5.11,0.15
+"42660","Seattle-Tacoma-Bellevue","032","Argentina","17",4,0.01,1.5e-04
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","01",3,39.26,20.29
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","01",4,0.05,4.8499999825e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","01",5,0.09,0.03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","02",3,0.02,0.04
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","04",3,5.89,3.06
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","04",4,0.20,0.02
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","04",5,0.10,0.01
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","05",3,2.91,2.59
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","05",4,9.50000003699997e-03,4.54999998299999e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","06",3,0.21,0.08
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","06",4,0.10,2.499999992e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","06",5,2.453394266e-03,1.02224761083333e-04
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","07",3,4.35,7.68
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","07",5,2.55000000000001e-03,1.75929398786542e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","08",3,50.28,8.31
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","08",4,0.13,2.40000006200001e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","08",5,0.06,6.35911026960976e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","09",3,4.74,1.17
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","09",4,0.57,3.90000004249998e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","10",3,4.53,0.37
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","10",4,0.25,3.00000006e-04
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","10",5,273.87,0.31
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","11",3,2.1982001215e-03,1.069014375e-04
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","11",4,1.72,4.40000004849998e-03
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","12",3,1.52,0.86
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","12",5,6.0e-04,6.69649515287099e-05
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","13",3,0.03,0.18
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","17",3,1.15,0.14
+"42660","Seattle-Tacoma-Bellevue","076","Brazil","17",4,0.06,8.49999999999994e-04
+"42660","Seattle-Tacoma-Bellevue","124","Canada","01",1,16.50,9.93
+"42660","Seattle-Tacoma-Bellevue","124","Canada","01",2,1.73,2.26
+"42660","Seattle-Tacoma-Bellevue","124","Canada","01",3,7.45,7.35
+"42660","Seattle-Tacoma-Bellevue","124","Canada","01",4,6.16,0.99
+"42660","Seattle-Tacoma-Bellevue","124","Canada","02",1,0.09,0.74
+"42660","Seattle-Tacoma-Bellevue","124","Canada","02",2,3.86646079009475e-03,0.03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","02",3,32.74,1742.02
+"42660","Seattle-Tacoma-Bellevue","124","Canada","02",4,0.05,0.14
+"42660","Seattle-Tacoma-Bellevue","124","Canada","03",1,0.16,0.29
+"42660","Seattle-Tacoma-Bellevue","124","Canada","03",3,974.30,1940.35
+"42660","Seattle-Tacoma-Bellevue","124","Canada","03",4,0.17,0.18
+"42660","Seattle-Tacoma-Bellevue","124","Canada","03",6,1601.48,4549.17
+"42660","Seattle-Tacoma-Bellevue","124","Canada","04",1,14.95,7.09
+"42660","Seattle-Tacoma-Bellevue","124","Canada","04",2,0.97,1.31
+"42660","Seattle-Tacoma-Bellevue","124","Canada","04",3,44.90,105.78
+"42660","Seattle-Tacoma-Bellevue","124","Canada","04",4,16.33,0.54
+"42660","Seattle-Tacoma-Bellevue","124","Canada","04",7,11.24,2.35
+"42660","Seattle-Tacoma-Bellevue","124","Canada","05",1,33.52,22.51
+"42660","Seattle-Tacoma-Bellevue","124","Canada","05",2,3.01,11.89
+"42660","Seattle-Tacoma-Bellevue","124","Canada","05",3,53.18,446.42
+"42660","Seattle-Tacoma-Bellevue","124","Canada","05",4,4.19,0.62
+"42660","Seattle-Tacoma-Bellevue","124","Canada","05",7,3.21,0.15
+"42660","Seattle-Tacoma-Bellevue","124","Canada","06",1,25.22,2.53
+"42660","Seattle-Tacoma-Bellevue","124","Canada","06",3,0.52,0.10
+"42660","Seattle-Tacoma-Bellevue","124","Canada","06",4,10.22,0.50
+"42660","Seattle-Tacoma-Bellevue","124","Canada","06",7,9.09,0.20
+"42660","Seattle-Tacoma-Bellevue","124","Canada","07",1,6.62,11.99
+"42660","Seattle-Tacoma-Bellevue","124","Canada","07",2,0.49,0.71
+"42660","Seattle-Tacoma-Bellevue","124","Canada","07",3,76.27,574.96
+"42660","Seattle-Tacoma-Bellevue","124","Canada","07",4,4.78,0.61
+"42660","Seattle-Tacoma-Bellevue","124","Canada","08",1,49.16,5.72
+"42660","Seattle-Tacoma-Bellevue","124","Canada","08",2,0.02,3.04071393690236e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","08",3,5.11,0.66
+"42660","Seattle-Tacoma-Bellevue","124","Canada","08",4,102.12,1.05
+"42660","Seattle-Tacoma-Bellevue","124","Canada","08",7,7.04,0.26
+"42660","Seattle-Tacoma-Bellevue","124","Canada","09",1,130.51,8.12
+"42660","Seattle-Tacoma-Bellevue","124","Canada","09",3,0.74,0.02
+"42660","Seattle-Tacoma-Bellevue","124","Canada","09",4,128.60,0.96
+"42660","Seattle-Tacoma-Bellevue","124","Canada","09",5,5.76796224779021e-03,9.2699393268057e-04
+"42660","Seattle-Tacoma-Bellevue","124","Canada","09",7,9.91,0.33
+"42660","Seattle-Tacoma-Bellevue","124","Canada","10",1,9.14,1.38
+"42660","Seattle-Tacoma-Bellevue","124","Canada","10",2,0.02,9.10627520698543e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","10",3,35.75,2.49
+"42660","Seattle-Tacoma-Bellevue","124","Canada","10",4,68.97,0.36
+"42660","Seattle-Tacoma-Bellevue","124","Canada","10",7,538.38,0.46
+"42660","Seattle-Tacoma-Bellevue","124","Canada","11",1,60.33,1.90
+"42660","Seattle-Tacoma-Bellevue","124","Canada","11",2,0.01,2.16653398551729e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","11",3,0.13,2.05e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","11",4,68.24,0.27
+"42660","Seattle-Tacoma-Bellevue","124","Canada","11",7,0.11,2.91759456022769e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","12",1,4.28,0.88
+"42660","Seattle-Tacoma-Bellevue","124","Canada","12",2,0.02,8.91362417681849e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","12",3,0.11,0.01
+"42660","Seattle-Tacoma-Bellevue","124","Canada","12",4,2.65,0.13
+"42660","Seattle-Tacoma-Bellevue","124","Canada","12",7,2.27,0.48
+"42660","Seattle-Tacoma-Bellevue","124","Canada","13",3,44.03,303.06
+"42660","Seattle-Tacoma-Bellevue","124","Canada","13",4,0.01,1.03712958040424e-03
+"42660","Seattle-Tacoma-Bellevue","124","Canada","16",1,2.05,0.26
+"42660","Seattle-Tacoma-Bellevue","124","Canada","16",4,0.80,0.01
+"42660","Seattle-Tacoma-Bellevue","124","Canada","17",1,33.29,5.10
+"42660","Seattle-Tacoma-Bellevue","124","Canada","17",2,0.02,0.02
+"42660","Seattle-Tacoma-Bellevue","124","Canada","17",3,1.58,0.33
+"42660","Seattle-Tacoma-Bellevue","124","Canada","17",4,25.61,0.68
+"42660","Seattle-Tacoma-Bellevue","124","Canada","17",7,0.71,0.06
+"42660","Seattle-Tacoma-Bellevue","152","Chile","01",3,56.55,31.71
+"42660","Seattle-Tacoma-Bellevue","152","Chile","01",4,6.750000135e-03,2.10000003e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","01",5,0.01,7.97921086499999e-04
+"42660","Seattle-Tacoma-Bellevue","152","Chile","02",3,3.44,23.31
+"42660","Seattle-Tacoma-Bellevue","152","Chile","03",3,140.70,251.98
+"42660","Seattle-Tacoma-Bellevue","152","Chile","04",3,11.76,8.28
+"42660","Seattle-Tacoma-Bellevue","152","Chile","04",4,0.09,1.0000000275e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","05",3,17.47,26.71
+"42660","Seattle-Tacoma-Bellevue","152","Chile","05",4,4.14999996200001e-03,3.49999999500001e-04
+"42660","Seattle-Tacoma-Bellevue","152","Chile","06",3,2.54,0.44
+"42660","Seattle-Tacoma-Bellevue","152","Chile","06",4,0.04,3.50000000000001e-04
+"42660","Seattle-Tacoma-Bellevue","152","Chile","07",3,0.25,0.70
+"42660","Seattle-Tacoma-Bellevue","152","Chile","07",4,9.99999982800005e-03,5.00000000000002e-05
+"42660","Seattle-Tacoma-Bellevue","152","Chile","08",3,11.19,1.58
+"42660","Seattle-Tacoma-Bellevue","152","Chile","08",4,0.42,4.5000000385e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","09",3,0.53,0.03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","09",4,0.31,1.0999999985e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","10",3,0.47,0.13
+"42660","Seattle-Tacoma-Bellevue","152","Chile","10",4,0.75,2.750000016e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","11",3,5.64,0.03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","11",4,0.81,2.100000015e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","12",3,0.19,0.04
+"42660","Seattle-Tacoma-Bellevue","152","Chile","13",3,1.60,4.73
+"42660","Seattle-Tacoma-Bellevue","152","Chile","16",3,3.59999997749999e-03,3.000000008e-03
+"42660","Seattle-Tacoma-Bellevue","152","Chile","16",4,0.03,1.0e-04
+"42660","Seattle-Tacoma-Bellevue","152","Chile","17",3,14.82,2.17
+"42660","Seattle-Tacoma-Bellevue","152","Chile","17",4,0.03,1.5000000025e-03
+"42660","Seattle-Tacoma-Bellevue","156","China","01",3,3654.33,8485.15
+"42660","Seattle-Tacoma-Bellevue","156","China","01",4,76.93,9.95
+"42660","Seattle-Tacoma-Bellevue","156","China","01",5,0.09,0.02
+"42660","Seattle-Tacoma-Bellevue","156","China","02",3,54.31,144.85
+"42660","Seattle-Tacoma-Bellevue","156","China","02",4,2.28,0.13
+"42660","Seattle-Tacoma-Bellevue","156","China","02",5,1.35e-03,3.56826811313444e-03
+"42660","Seattle-Tacoma-Bellevue","156","China","03",3,26.28,56.59
+"42660","Seattle-Tacoma-Bellevue","156","China","03",4,0.10,8.44718665199997e-03
+"42660","Seattle-Tacoma-Bellevue","156","China","03",5,1.8e-03,1.74085195401447e-03
+"42660","Seattle-Tacoma-Bellevue","156","China","04",3,2631.27,870.00
+"42660","Seattle-Tacoma-Bellevue","156","China","04",4,189.25,3.07
+"42660","Seattle-Tacoma-Bellevue","156","China","04",5,1.22,0.34
+"42660","Seattle-Tacoma-Bellevue","156","China","05",3,2901.03,1789.77
+"42660","Seattle-Tacoma-Bellevue","156","China","05",4,11.33,1.11
+"42660","Seattle-Tacoma-Bellevue","156","China","05",5,0.82,0.20
+"42660","Seattle-Tacoma-Bellevue","156","China","06",3,7883.02,733.35
+"42660","Seattle-Tacoma-Bellevue","156","China","06",4,154.56,5.47
+"42660","Seattle-Tacoma-Bellevue","156","China","06",5,24.55,1.50
+"42660","Seattle-Tacoma-Bellevue","156","China","07",3,891.10,1205.91
+"42660","Seattle-Tacoma-Bellevue","156","China","07",4,26.27,2.40
+"42660","Seattle-Tacoma-Bellevue","156","China","07",5,0.51,0.15
+"42660","Seattle-Tacoma-Bellevue","156","China","08",3,3663.75,609.85
+"42660","Seattle-Tacoma-Bellevue","156","China","08",4,815.69,5.79
+"42660","Seattle-Tacoma-Bellevue","156","China","08",5,5.83,0.54
+"42660","Seattle-Tacoma-Bellevue","156","China","09",3,5979.55,531.70
+"42660","Seattle-Tacoma-Bellevue","156","China","09",4,1997.74,8.98
+"42660","Seattle-Tacoma-Bellevue","156","China","09",5,75.43,3.13
+"42660","Seattle-Tacoma-Bellevue","156","China","10",3,1925.81,363.45
+"42660","Seattle-Tacoma-Bellevue","156","China","10",4,422.30,1.12
+"42660","Seattle-Tacoma-Bellevue","156","China","10",5,4122.67,1.57
+"42660","Seattle-Tacoma-Bellevue","156","China","11",3,565.81,37.85
+"42660","Seattle-Tacoma-Bellevue","156","China","11",4,542.49,2.42
+"42660","Seattle-Tacoma-Bellevue","156","China","11",5,3.80,0.10
+"42660","Seattle-Tacoma-Bellevue","156","China","12",3,2575.00,760.17
+"42660","Seattle-Tacoma-Bellevue","156","China","12",4,28.87,0.54
+"42660","Seattle-Tacoma-Bellevue","156","China","12",5,0.86,0.14
+"42660","Seattle-Tacoma-Bellevue","156","China","13",3,668.88,1583.65
+"42660","Seattle-Tacoma-Bellevue","156","China","13",4,0.12,1.97771885529697e-04
+"42660","Seattle-Tacoma-Bellevue","156","China","16",3,44.23,3.69
+"42660","Seattle-Tacoma-Bellevue","156","China","16",4,13.34,0.06
+"42660","Seattle-Tacoma-Bellevue","156","China","16",5,1.58,0.07
+"42660","Seattle-Tacoma-Bellevue","156","China","17",3,5645.78,1345.81
+"42660","Seattle-Tacoma-Bellevue","156","China","17",4,250.66,4.19
+"42660","Seattle-Tacoma-Bellevue","156","China","17",5,17.35,1.44
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","01",3,30.73,24.44
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","01",4,1.700000034e-03,1.999999875e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","02",3,0.08,0.27
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","04",3,1.24,0.89
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","04",4,0.05,1.500000075e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","05",3,3.21,2.74
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","05",4,1.25e-03,2.99999999999999e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","06",3,0.07,8.825867156e-03
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","06",4,0.01,1.5e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","07",3,0.07,0.08
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","07",4,0.02,9.00000000000003e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","08",3,5.00,1.11
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","08",4,0.18,9.99999974000003e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","09",3,0.74,0.05
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","09",4,0.16,3.99999987499998e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","10",3,0.45,0.02
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","11",3,1.72,0.08
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","11",4,0.30,5.99999986499999e-04
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","12",3,0.53,0.03
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","17",3,1.81,0.31
+"42660","Seattle-Tacoma-Bellevue","170","Colombia","17",4,4.24999995749996e-03,5.00000024999995e-05
+"42660","Seattle-Tacoma-Bellevue","250","France","01",3,36.57,12.89
+"42660","Seattle-Tacoma-Bellevue","250","France","01",4,10.50,0.67
+"42660","Seattle-Tacoma-Bellevue","250","France","01",5,0.93,0.40
+"42660","Seattle-Tacoma-Bellevue","250","France","02",3,0.05,0.15
+"42660","Seattle-Tacoma-Bellevue","250","France","02",4,3.369109e-04,1.148061054e-03
+"42660","Seattle-Tacoma-Bellevue","250","France","02",5,5.61432312499999e-03,0.01
+"42660","Seattle-Tacoma-Bellevue","250","France","04",3,5.25,1.92
+"42660","Seattle-Tacoma-Bellevue","250","France","04",4,22.89,0.55
+"42660","Seattle-Tacoma-Bellevue","250","France","04",5,2.39,1.22
+"42660","Seattle-Tacoma-Bellevue","250","France","05",3,0.28,0.19
+"42660","Seattle-Tacoma-Bellevue","250","France","05",4,0.57,0.02
+"42660","Seattle-Tacoma-Bellevue","250","France","05",5,0.08,0.04
+"42660","Seattle-Tacoma-Bellevue","250","France","06",4,1.74,0.08
+"42660","Seattle-Tacoma-Bellevue","250","France","06",5,0.19,0.02
+"42660","Seattle-Tacoma-Bellevue","250","France","07",3,4.42,1.84
+"42660","Seattle-Tacoma-Bellevue","250","France","07",4,8.02,0.40
+"42660","Seattle-Tacoma-Bellevue","250","France","07",5,0.50,0.10
+"42660","Seattle-Tacoma-Bellevue","250","France","08",3,12.80,1.21
+"42660","Seattle-Tacoma-Bellevue","250","France","08",4,602.21,1.88
+"42660","Seattle-Tacoma-Bellevue","250","France","08",5,0.63,0.04
+"42660","Seattle-Tacoma-Bellevue","250","France","09",3,0.36,6.31836823199998e-03
+"42660","Seattle-Tacoma-Bellevue","250","France","09",4,90.71,0.57
+"42660","Seattle-Tacoma-Bellevue","250","France","09",5,1.27,0.08
+"42660","Seattle-Tacoma-Bellevue","250","France","10",3,13.98,1.78
+"42660","Seattle-Tacoma-Bellevue","250","France","10",4,126.76,0.62
+"42660","Seattle-Tacoma-Bellevue","250","France","10",5,411.03,0.94
+"42660","Seattle-Tacoma-Bellevue","250","France","11",3,0.11,1.34613916799999e-03
+"42660","Seattle-Tacoma-Bellevue","250","France","11",4,42.10,0.12
+"42660","Seattle-Tacoma-Bellevue","250","France","11",5,0.20,2.95760377401047e-03
+"42660","Seattle-Tacoma-Bellevue","250","France","12",3,0.63,0.08
+"42660","Seattle-Tacoma-Bellevue","250","France","12",4,51.78,0.45
+"42660","Seattle-Tacoma-Bellevue","250","France","12",5,15.32,0.16
+"42660","Seattle-Tacoma-Bellevue","250","France","13",4,0.02,1.04081568713919e-03
+"42660","Seattle-Tacoma-Bellevue","250","France","16",4,74.29,0.02
+"42660","Seattle-Tacoma-Bellevue","250","France","16",5,6.619416285e-04,6.59666915e-05
+"42660","Seattle-Tacoma-Bellevue","250","France","17",3,0.98,0.07
+"42660","Seattle-Tacoma-Bellevue","250","France","17",4,10.05,0.35
+"42660","Seattle-Tacoma-Bellevue","250","France","17",5,0.70,0.19
+"42660","Seattle-Tacoma-Bellevue","276","Germany","01",3,94.43,37.31
+"42660","Seattle-Tacoma-Bellevue","276","Germany","01",4,7.28,0.72
+"42660","Seattle-Tacoma-Bellevue","276","Germany","01",5,6.69,2.14
+"42660","Seattle-Tacoma-Bellevue","276","Germany","02",3,0.13,5.11
+"42660","Seattle-Tacoma-Bellevue","276","Germany","02",4,1.1778346e-03,2.705815749e-03
+"42660","Seattle-Tacoma-Bellevue","276","Germany","02",5,0.01,0.03
+"42660","Seattle-Tacoma-Bellevue","276","Germany","03",3,0.36,0.02
+"42660","Seattle-Tacoma-Bellevue","276","Germany","03",4,0.27,0.05
+"42660","Seattle-Tacoma-Bellevue","276","Germany","04",3,17.78,4.78
+"42660","Seattle-Tacoma-Bellevue","276","Germany","04",4,83.38,1.21
+"42660","Seattle-Tacoma-Bellevue","276","Germany","04",5,4.52,1.15
+"42660","Seattle-Tacoma-Bellevue","276","Germany","05",3,9.27,8.59
+"42660","Seattle-Tacoma-Bellevue","276","Germany","05",4,0.82,0.12
+"42660","Seattle-Tacoma-Bellevue","276","Germany","05",5,0.40,0.39
+"42660","Seattle-Tacoma-Bellevue","276","Germany","06",3,1.07,0.06
+"42660","Seattle-Tacoma-Bellevue","276","Germany","06",4,6.61,0.24
+"42660","Seattle-Tacoma-Bellevue","276","Germany","06",5,0.65,0.07
+"42660","Seattle-Tacoma-Bellevue","276","Germany","07",3,7.93,2.34
+"42660","Seattle-Tacoma-Bellevue","276","Germany","07",4,7.77,0.31
+"42660","Seattle-Tacoma-Bellevue","276","Germany","07",5,1.68,0.67
+"42660","Seattle-Tacoma-Bellevue","276","Germany","08",3,96.21,10.88
+"42660","Seattle-Tacoma-Bellevue","276","Germany","08",4,129.36,2.35
+"42660","Seattle-Tacoma-Bellevue","276","Germany","08",5,8.20,0.61
+"42660","Seattle-Tacoma-Bellevue","276","Germany","09",3,32.66,0.15
+"42660","Seattle-Tacoma-Bellevue","276","Germany","09",4,90.44,0.46
+"42660","Seattle-Tacoma-Bellevue","276","Germany","09",5,1.54,0.09
+"42660","Seattle-Tacoma-Bellevue","276","Germany","10",3,30.74,3.06
+"42660","Seattle-Tacoma-Bellevue","276","Germany","10",4,95.97,0.51
+"42660","Seattle-Tacoma-Bellevue","276","Germany","10",5,1642.78,1.69
+"42660","Seattle-Tacoma-Bellevue","276","Germany","11",3,3.14,0.09
+"42660","Seattle-Tacoma-Bellevue","276","Germany","11",4,142.68,0.62
+"42660","Seattle-Tacoma-Bellevue","276","Germany","11",5,4.00,0.02
+"42660","Seattle-Tacoma-Bellevue","276","Germany","12",3,3.07,2.60
+"42660","Seattle-Tacoma-Bellevue","276","Germany","12",4,15.99,0.10
+"42660","Seattle-Tacoma-Bellevue","276","Germany","12",5,23.02,0.24
+"42660","Seattle-Tacoma-Bellevue","276","Germany","13",3,1.24,1.39
+"42660","Seattle-Tacoma-Bellevue","276","Germany","13",4,0.04,4.96105283209942e-05
+"42660","Seattle-Tacoma-Bellevue","276","Germany","16",3,5.98371429849999e-03,6.15384615999999e-04
+"42660","Seattle-Tacoma-Bellevue","276","Germany","16",4,0.39,3.039698145e-03
+"42660","Seattle-Tacoma-Bellevue","276","Germany","16",5,2.0214819885e-03,2.014535315e-04
+"42660","Seattle-Tacoma-Bellevue","276","Germany","17",3,5.92,0.95
+"42660","Seattle-Tacoma-Bellevue","276","Germany","17",4,20.32,0.63
+"42660","Seattle-Tacoma-Bellevue","276","Germany","17",5,3.05,1.00
+"42660","Seattle-Tacoma-Bellevue","356","India","01",3,158.31,329.56
+"42660","Seattle-Tacoma-Bellevue","356","India","01",4,0.92,0.13
+"42660","Seattle-Tacoma-Bellevue","356","India","01",5,0.18,0.01
+"42660","Seattle-Tacoma-Bellevue","356","India","02",3,1.02,13.43
+"42660","Seattle-Tacoma-Bellevue","356","India","02",4,2.8054388e-04,3.55528719e-04
+"42660","Seattle-Tacoma-Bellevue","356","India","02",5,2.35e-03,2.1957612565445e-03
+"42660","Seattle-Tacoma-Bellevue","356","India","03",3,0.97,0.33
+"42660","Seattle-Tacoma-Bellevue","356","India","04",3,74.76,33.07
+"42660","Seattle-Tacoma-Bellevue","356","India","04",4,0.64,0.03
+"42660","Seattle-Tacoma-Bellevue","356","India","04",5,7.676e-03,3.42369565217392e-03
+"42660","Seattle-Tacoma-Bellevue","356","India","05",3,92.84,177.94
+"42660","Seattle-Tacoma-Bellevue","356","India","05",4,0.08,0.02
+"42660","Seattle-Tacoma-Bellevue","356","India","06",3,82.53,12.70
+"42660","Seattle-Tacoma-Bellevue","356","India","06",4,4.24,0.23
+"42660","Seattle-Tacoma-Bellevue","356","India","06",5,0.22,0.01
+"42660","Seattle-Tacoma-Bellevue","356","India","07",3,19.64,25.43
+"42660","Seattle-Tacoma-Bellevue","356","India","07",4,0.12,0.01
+"42660","Seattle-Tacoma-Bellevue","356","India","07",5,0.01,5.2412499495e-03
+"42660","Seattle-Tacoma-Bellevue","356","India","08",3,36.84,5.80
+"42660","Seattle-Tacoma-Bellevue","356","India","08",4,7.57,0.06
+"42660","Seattle-Tacoma-Bellevue","356","India","08",5,0.08,1.335541743424e-03
+"42660","Seattle-Tacoma-Bellevue","356","India","09",3,43.50,5.14
+"42660","Seattle-Tacoma-Bellevue","356","India","09",4,11.39,0.06
+"42660","Seattle-Tacoma-Bellevue","356","India","09",5,0.29,5.07304268871841e-04
+"42660","Seattle-Tacoma-Bellevue","356","India","10",3,14.08,2.45
+"42660","Seattle-Tacoma-Bellevue","356","India","10",4,5.01,0.01
+"42660","Seattle-Tacoma-Bellevue","356","India","10",5,1439.85,3.10
+"42660","Seattle-Tacoma-Bellevue","356","India","11",3,7.60,0.70
+"42660","Seattle-Tacoma-Bellevue","356","India","11",4,12.14,0.03
+"42660","Seattle-Tacoma-Bellevue","356","India","12",3,42.84,38.24
+"42660","Seattle-Tacoma-Bellevue","356","India","12",4,0.04,2.34292044e-03
+"42660","Seattle-Tacoma-Bellevue","356","India","12",5,2.11111112800001e-03,7.2796935448276e-05
+"42660","Seattle-Tacoma-Bellevue","356","India","13",3,14.24,239.75
+"42660","Seattle-Tacoma-Bellevue","356","India","13",4,0.01,4.96105228638368e-05
+"42660","Seattle-Tacoma-Bellevue","356","India","16",4,0.20,9.41891851999998e-04
+"42660","Seattle-Tacoma-Bellevue","356","India","17",3,41.16,13.58
+"42660","Seattle-Tacoma-Bellevue","356","India","17",4,2.40,0.02
+"42660","Seattle-Tacoma-Bellevue","356","India","17",5,0.11,3.90263740484752e-03
+"42660","Seattle-Tacoma-Bellevue","392","Japan","01",3,2348.99,7097.47
+"42660","Seattle-Tacoma-Bellevue","392","Japan","01",4,22.56,3.38
+"42660","Seattle-Tacoma-Bellevue","392","Japan","01",5,0.85,0.09
+"42660","Seattle-Tacoma-Bellevue","392","Japan","02",3,7.89,8.61
+"42660","Seattle-Tacoma-Bellevue","392","Japan","02",4,0.73,0.06
+"42660","Seattle-Tacoma-Bellevue","392","Japan","03",3,129.27,99.33
+"42660","Seattle-Tacoma-Bellevue","392","Japan","03",4,0.26,0.17
+"42660","Seattle-Tacoma-Bellevue","392","Japan","04",3,1734.92,240.85
+"42660","Seattle-Tacoma-Bellevue","392","Japan","04",4,276.57,2.33
+"42660","Seattle-Tacoma-Bellevue","392","Japan","04",5,0.45,0.33
+"42660","Seattle-Tacoma-Bellevue","392","Japan","05",3,598.29,1020.82
+"42660","Seattle-Tacoma-Bellevue","392","Japan","05",4,104.16,0.69
+"42660","Seattle-Tacoma-Bellevue","392","Japan","05",5,0.08,0.02
+"42660","Seattle-Tacoma-Bellevue","392","Japan","06",3,113.71,8.28
+"42660","Seattle-Tacoma-Bellevue","392","Japan","06",4,8.13,0.26
+"42660","Seattle-Tacoma-Bellevue","392","Japan","06",5,0.14,9.10892589806336e-03
+"42660","Seattle-Tacoma-Bellevue","392","Japan","07",3,290.17,98.34
+"42660","Seattle-Tacoma-Bellevue","392","Japan","07",4,22.35,0.98
+"42660","Seattle-Tacoma-Bellevue","392","Japan","07",5,0.06,0.06
+"42660","Seattle-Tacoma-Bellevue","392","Japan","08",3,3614.89,256.67
+"42660","Seattle-Tacoma-Bellevue","392","Japan","08",4,574.55,5.05
+"42660","Seattle-Tacoma-Bellevue","392","Japan","08",5,3.91,0.36
+"42660","Seattle-Tacoma-Bellevue","392","Japan","09",3,1178.78,53.05
+"42660","Seattle-Tacoma-Bellevue","392","Japan","09",4,194.14,1.32
+"42660","Seattle-Tacoma-Bellevue","392","Japan","09",5,4.40,0.18
+"42660","Seattle-Tacoma-Bellevue","392","Japan","10",3,5832.12,346.32
+"42660","Seattle-Tacoma-Bellevue","392","Japan","10",4,499.99,1.85
+"42660","Seattle-Tacoma-Bellevue","392","Japan","10",5,2569.23,0.94
+"42660","Seattle-Tacoma-Bellevue","392","Japan","11",3,428.73,9.16
+"42660","Seattle-Tacoma-Bellevue","392","Japan","11",4,209.68,0.84
+"42660","Seattle-Tacoma-Bellevue","392","Japan","11",5,0.86,0.02
+"42660","Seattle-Tacoma-Bellevue","392","Japan","12",3,134.97,15.51
+"42660","Seattle-Tacoma-Bellevue","392","Japan","12",4,57.44,0.68
+"42660","Seattle-Tacoma-Bellevue","392","Japan","12",5,0.18,0.02
+"42660","Seattle-Tacoma-Bellevue","392","Japan","13",3,63.40,132.24
+"42660","Seattle-Tacoma-Bellevue","392","Japan","13",4,0.38,5.15044666298836e-03
+"42660","Seattle-Tacoma-Bellevue","392","Japan","16",3,20.38,0.42
+"42660","Seattle-Tacoma-Bellevue","392","Japan","16",4,176.66,0.21
+"42660","Seattle-Tacoma-Bellevue","392","Japan","17",3,677.29,94.49
+"42660","Seattle-Tacoma-Bellevue","392","Japan","17",4,134.01,1.86
+"42660","Seattle-Tacoma-Bellevue","392","Japan","17",5,0.34,0.04
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","01",3,1188.58,5201.77
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","01",4,27.23,2.46
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","01",5,1.5310678375e-03,3.21904542636363e-04
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","02",3,6.58,31.73
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","02",4,0.07,0.05
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","03",3,189.50,367.03
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","04",3,449.09,145.85
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","04",4,19.20,0.79
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","04",5,0.11,0.03
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","05",3,229.76,638.83
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","05",4,1.58,0.12
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","06",3,111.74,15.92
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","06",4,15.54,0.11
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","06",5,0.15,9.67564270246462e-03
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","07",3,94.65,42.86
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","07",4,4.66,0.34
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","08",3,633.33,99.13
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","08",4,149.29,1.08
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","08",5,0.39,0.03
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","09",3,317.72,34.42
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","09",4,83.60,0.66
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","09",5,1.00,0.04
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","10",3,1783.49,208.77
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","10",4,104.22,0.68
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","10",5,1266.29,0.46
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","11",3,59.10,2.34
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","11",4,125.65,0.48
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","11",5,0.24,6.86724007985447e-03
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","12",3,17.32,2.54
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","12",4,1.19,7.10489601599999e-03
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","12",5,1.64666946e-03,2.68940284297994e-04
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","13",3,124.90,250.84
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","13",4,0.06,3.96214004270831e-04
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","16",3,113.81,0.42
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","16",4,0.13,0.02
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","16",5,0.26,0.01
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","17",3,230.87,43.83
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","17",4,138.06,0.73
+"42660","Seattle-Tacoma-Bellevue","410","Republic of Korea","17",5,0.06,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","01",1,0.01,1.15711579264151e-04
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","01",3,8.98,2.90
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","01",4,0.04,4.0e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","01",5,8.68764720352594e-03,7.42300697166256e-05
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","02",3,4.77,363.77
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","04",3,0.98,0.48
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","04",4,0.39,4.1e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","04",5,0.01,2.25892857142857e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","05",3,3.90,6.43
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","05",4,0.16,7.54999999999999e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","06",4,0.62,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","06",5,0.27,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","07",3,1.04,1.16
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","07",4,0.05,2.25e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","08",3,0.38,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","08",4,3.02,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","08",5,0.80,0.03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","09",3,0.08,4.74999999999998e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","09",4,4.31,0.08
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","09",5,0.57,0.03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","10",1,3.48150650228002e-03,4.98104808550679e-04
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","10",2,1.14652447704297e-05,9.9633266581417e-06
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","10",3,5.95000000000002e-03,1.65000000000001e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","10",4,1.84,3.50000000000001e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","10",5,7.02825294955e-06,2.90732743021207e-07
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","11",3,0.79,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","11",4,9.82,0.03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","12",1,0.07,0.01
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","12",2,8.79770321504972e-05,2.52336473348846e-05
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","12",3,2.0e-03,9.50000000000002e-04
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","12",5,1.04856353495773e-04,9.85766891616541e-06
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","12",7,5.39968824103807e-06,9.56232618341195e-08
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","13",4,3.67117869192392e-03,4.96105228638368e-05
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","17",1,5.66698956441934e-03,1.70037672014895e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","17",2,3.3185510326604e-04,8.48992395256092e-05
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","17",3,0.13,0.04
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","17",4,0.42,2.39999999999999e-03
+"42660","Seattle-Tacoma-Bellevue","484","Mexico","17",7,1.15533231461188e-06,4.80490450167784e-08
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","01",3,52.57,21.49
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","01",4,16.14,1.31
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","01",5,0.24,0.11
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","04",3,10.31,2.21
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","04",4,5.09,0.07
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","04",5,0.05,0.01
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","05",3,3.32,2.64
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","05",4,0.65,0.06
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","06",3,3.24,0.67
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","06",4,2.73,0.11
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","06",5,1.8692993165e-03,2.0106439661423e-04
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","07",3,0.31,0.11
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","07",4,0.81,0.06
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","07",5,0.14,0.08
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","08",3,83.13,15.40
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","08",4,244.54,0.95
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","08",5,1.59,0.12
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","09",3,51.74,0.27
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","09",4,164.74,0.94
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","09",5,0.32,0.01
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","10",3,5.24,0.20
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","10",4,61.05,0.11
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","10",5,367.01,0.37
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","11",3,3.72,0.12
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","11",4,123.99,0.45
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","11",5,0.25,1.74644428712974e-03
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","12",3,0.18,0.01
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","12",4,0.36,0.01
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","13",3,0.06,0.32
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","13",4,4.76261055063577e-03,1.48831566607089e-04
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","16",4,0.04,1.333540061e-03
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","17",3,3.16,0.26
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","17",4,10.99,0.20
+"42660","Seattle-Tacoma-Bellevue","528","Netherlands","17",5,0.05,0.01
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","01",3,67.31,67.84
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","01",4,2.12,0.54
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","01",5,1.291877712e-03,7.17709840000001e-05
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","02",3,2.44,13.91
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","02",4,3.9229411815e-03,1.1628571455e-03
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","03",3,40.31,115.93
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","03",4,3.07051821157211e-03,2.99562752348498e-04
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","04",3,173.93,28.83
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","04",4,24.70,0.28
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","04",5,3.719777685e-04,2.74476987769824e-05
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","05",3,41.79,28.80
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","05",4,3.02,0.11
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","06",3,5.77,0.41
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","06",4,1.29,0.03
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","07",3,4.05,2.89
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","07",4,1.98,0.02
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","07",5,3.2630975055e-03,4.8437865e-04
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","08",3,132.78,16.39
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","08",4,21.40,0.20
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","08",5,0.02,1.59059875876512e-03
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","09",3,25.35,1.72
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","09",4,43.54,0.17
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","09",5,0.36,0.01
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","10",3,125.05,9.10
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","10",4,54.48,0.08
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","10",5,1.61,0.02
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","11",3,39.83,1.37
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","11",4,33.04,0.11
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","11",5,0.48,9.73804899990894e-03
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","12",3,1.70,0.26
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","12",4,0.65,0.02
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","13",3,0.23,4.29
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","16",3,38.36,1.42
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","16",4,3.52,1.604150168e-03
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","17",3,22.10,2.18
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","17",4,11.21,0.39
+"42660","Seattle-Tacoma-Bellevue","702","Singapore","17",5,0.08,0.01
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","01",3,9.06,5.47
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","01",4,0.21,0.02
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","01",5,0.45,0.14
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","02",3,0.03,0.08
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","04",3,1.99,1.31
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","04",4,4.25,0.03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","05",3,0.58,0.73
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","05",4,0.02,1.75000000599999e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","06",3,0.99,0.06
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","06",4,0.07,3.099999813e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","06",5,1.095697583e-03,1.53699148411114e-05
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","07",3,3.08,1.47
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","07",4,0.04,2.1999999935e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","08",3,1.82,0.12
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","08",4,1.98,0.04
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","09",3,0.06,2.61832241699998e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","09",4,1.40,9.49999990999995e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","10",3,1.28,0.13
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","10",4,5.10,0.01
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","11",3,0.49,0.02
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","11",4,3.36,0.01
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","11",5,5.420681671e-03,3.69947635e-05
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","12",3,0.15,0.01
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","12",4,0.03,2.850000008e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","13",3,3.28268275990504e-03,0.01
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","13",4,1.98442091455347e-03,4.96105228638368e-05
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","16",3,0.08,6.952378272e-03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","16",4,9.49999994999999e-03,1.5e-04
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","17",3,1.01,0.69
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","17",4,0.92,0.03
+"42660","Seattle-Tacoma-Bellevue","710","South Africa","17",5,0.02,2.00516700431372e-04
+"42660","Seattle-Tacoma-Bellevue","724","Spain","01",3,26.13,14.08
+"42660","Seattle-Tacoma-Bellevue","724","Spain","01",4,1.05,0.06
+"42660","Seattle-Tacoma-Bellevue","724","Spain","02",3,0.15,7.12
+"42660","Seattle-Tacoma-Bellevue","724","Spain","02",4,2.91112104e-04,5.83427131e-04
+"42660","Seattle-Tacoma-Bellevue","724","Spain","04",3,0.44,0.22
+"42660","Seattle-Tacoma-Bellevue","724","Spain","04",4,1.85,0.02
+"42660","Seattle-Tacoma-Bellevue","724","Spain","04",5,0.94,0.15
+"42660","Seattle-Tacoma-Bellevue","724","Spain","05",3,0.23,0.21
+"42660","Seattle-Tacoma-Bellevue","724","Spain","05",4,0.08,0.01
+"42660","Seattle-Tacoma-Bellevue","724","Spain","05",5,0.01,2.57336778879905e-03
+"42660","Seattle-Tacoma-Bellevue","724","Spain","06",4,0.54,0.01
+"42660","Seattle-Tacoma-Bellevue","724","Spain","06",5,3.271291194e-03,3.51864564580583e-04
+"42660","Seattle-Tacoma-Bellevue","724","Spain","07",3,1.71,1.01
+"42660","Seattle-Tacoma-Bellevue","724","Spain","07",4,0.44,0.03
+"42660","Seattle-Tacoma-Bellevue","724","Spain","08",3,1.63,0.23
+"42660","Seattle-Tacoma-Bellevue","724","Spain","08",4,3.95,0.05
+"42660","Seattle-Tacoma-Bellevue","724","Spain","08",5,9.53739248000005e-03,7.17931629180759e-04
+"42660","Seattle-Tacoma-Bellevue","724","Spain","09",3,4.69,0.29
+"42660","Seattle-Tacoma-Bellevue","724","Spain","09",4,4.14,0.02
+"42660","Seattle-Tacoma-Bellevue","724","Spain","10",3,0.67,0.04
+"42660","Seattle-Tacoma-Bellevue","724","Spain","10",4,6.40,0.03
+"42660","Seattle-Tacoma-Bellevue","724","Spain","10",5,0.02,2.67707435920054e-03
+"42660","Seattle-Tacoma-Bellevue","724","Spain","11",4,6.38,0.02
+"42660","Seattle-Tacoma-Bellevue","724","Spain","11",5,1.32661074199999e-03,4.48491959999999e-05
+"42660","Seattle-Tacoma-Bellevue","724","Spain","12",4,0.01,2.67509244e-04
+"42660","Seattle-Tacoma-Bellevue","724","Spain","12",5,1.3749116555e-03,1.47187600436316e-05
+"42660","Seattle-Tacoma-Bellevue","724","Spain","16",5,6.557685e-06,6.53514999999999e-07
+"42660","Seattle-Tacoma-Bellevue","724","Spain","17",3,0.22,0.03
+"42660","Seattle-Tacoma-Bellevue","724","Spain","17",4,1.08,0.02
+"42660","Seattle-Tacoma-Bellevue","724","Spain","17",5,0.04,0.01
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","01",3,10.90,13.69
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","01",4,0.23,0.01
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","02",3,0.06,0.25
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","02",4,1.515451e-05,5.4338454e-05
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","04",3,2.49,2.33
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","04",4,0.35,0.01
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","05",3,0.96,2.25
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","05",4,0.11,1.2732919e-04
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","06",3,0.98,1.14
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","06",4,1.28,0.16
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","06",5,0.01,1.66345124796701e-03
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","07",3,1.46,1.62
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","07",4,0.07,5.2911746775e-03
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","07",5,1.10484639e-03,3.349800225e-04
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","08",3,3.57,0.14
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","08",4,1.18,0.02
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","09",3,2.89,0.08
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","09",4,8.79,0.03
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","10",3,5.17,0.59
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","10",4,6.44,0.02
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","10",5,2679.25,5.78
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","11",4,2.60,8.93334829249998e-03
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","12",3,0.24,0.33
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","12",4,0.01,8.03097283499997e-04
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","12",5,1.688888872e-03,5.8237547310345e-05
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","13",3,0.04,0.10
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","16",4,0.27,6.87027028799999e-03
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","17",3,0.74,0.17
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","17",4,1.86,0.03
+"42660","Seattle-Tacoma-Bellevue","792","Turkey","17",5,0.06,4.6623076831058e-03
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","01",3,39.02,23.57
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","01",4,5.31,0.91
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","01",5,6.64,2.83
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","02",3,0.14,0.35
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","02",4,0.03,0.01
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","02",5,4.58164e-03,0.01
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","03",3,3.75,2.26
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","03",4,0.03,0.07
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","04",3,16.04,3.35
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","04",4,13.70,0.23
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","04",5,2.92,0.49
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","05",3,2.70,1.92
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","05",4,2.08,0.11
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","05",5,0.48,0.08
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","06",3,2.79,0.29
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","06",4,4.17,0.11
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","06",5,1.30,0.14
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","07",3,8.69,2.44
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","07",4,4.88,0.29
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","07",5,0.06,0.03
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","08",3,24.59,2.61
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","08",4,95.84,0.78
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","08",5,2.09,0.15
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","09",3,82.49,0.44
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","09",4,110.45,0.76
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","09",5,4.74,0.30
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","10",3,16.16,1.59
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","10",4,133.03,0.40
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","10",5,683.83,0.79
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","11",3,1.59,0.09
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","11",4,61.58,0.24
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","11",5,1.12,7.25572546532167e-03
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","12",3,0.64,0.05
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","12",4,20.46,0.46
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","12",5,40.17,0.43
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","13",3,0.90,0.10
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","13",4,0.04,3.45933257645015e-04
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","16",4,0.95,0.01
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","16",5,2.68525197e-04,2.6760243e-05
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","17",3,6.72,1.02
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","17",4,50.86,0.56
+"42660","Seattle-Tacoma-Bellevue","826","United Kingdom of Great Britain and Northern Ireland","17",5,0.59,0.14
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","01",3,1.11,0.71
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","01",4,0.08,0.02
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","01",5,1.9e-03,6.26770293609673e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","02",3,3.32727306e-03,0.02
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","04",3,0.26,0.16
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","04",4,0.08,1.7500000035e-03
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","04",5,1.35e-03,6.75000000000002e-05
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","05",3,1.41,1.53
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","05",4,0.01,4.500000035e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","06",3,0.40,0.08
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","06",4,4.10000074750001e-03,3.49999977000001e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","07",3,2.73315246000001e-03,2.94275995e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","07",4,9.24999990000001e-03,8.50000006000002e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","08",3,1.79,0.60
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","08",4,0.23,5.95000000000002e-03
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","09",3,0.02,0.03
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","09",4,0.59,7.00000001999997e-03
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","10",3,1.02,0.38
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","10",4,0.19,5.99999993000001e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","10",5,42.61,0.03
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","11",4,0.54,3.200000081e-03
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","11",5,2.47109174999999e-04,2.47109174999999e-05
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","12",3,0.04,0.01
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","12",4,4.049999904e-03,2.00000009e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","13",3,0.78,0.99
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","16",3,0.01,7.29552095999998e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","16",4,7.40000015999999e-03,1.5e-04
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","17",3,16.02,4.44
+"42660","Seattle-Tacoma-Bellevue","011","Western Africa","17",4,0.07,2.35000021399998e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","01",3,12.04,4.72
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","01",4,0.03,4.29999978399999e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","02",3,0.03,0.01
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","04",3,0.69,0.02
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","04",4,0.09,2.349999924e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","05",3,0.71,0.92
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","05",4,0.01,1.74999999749999e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","06",3,4.65,1.18
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","06",4,0.26,0.02
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","07",3,0.34,0.27
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","07",4,3.54999979e-03,9.99999985000004e-05
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","08",3,0.72,0.23
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","08",4,0.78,0.01
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","09",3,0.24,0.05
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","09",4,0.75,6.95000011999997e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","10",3,0.46,0.07
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","10",4,0.63,2.04999995500001e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","10",5,0.95,8.54313696871978e-04
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","11",4,0.78,4.75000001399999e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","11",5,2.504923162e-03,4.41283719999999e-05
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","12",3,0.17,8.70726050599998e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","12",4,0.08,3.00000001199999e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","13",3,1.53,1.51
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","16",3,3.38806609499999e-03,3.22507295999999e-04
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","16",4,0.02,9.99999999999999e-05
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","17",3,0.92,0.41
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","17",4,0.15,3.850000053e-03
+"42660","Seattle-Tacoma-Bellevue","014","Eastern Africa","17",5,0.01,9.38805943607842e-05
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","01",3,27.59,22.37
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","01",4,0.08,5.20000006150001e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","04",3,0.22,0.13
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","04",4,0.19,6.65000003250001e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","05",3,1.99,4.23
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","05",4,5.50000011600001e-03,4.00000001500001e-04
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","06",3,3.10,0.76
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","06",4,0.51,0.02
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","06",5,0.40,5.72401820393957e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","07",3,0.19,0.27
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","07",4,0.02,1.00000000400001e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","08",3,4.42,1.41
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","08",4,0.56,0.01
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","09",3,0.03,0.02
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","09",4,0.90,5.55000010749997e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","10",3,0.07,0.04
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","10",4,2.49,3.35000001e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","10",5,910.57,0.81
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","11",4,2.04,8.99999999899998e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","11",5,1.606984025e-03,1.606984025e-04
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","12",3,0.03,2.36388907799999e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","12",4,0.01,1.149999971e-03
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","12",5,1.3e-03,5.25285076846803e-05
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","17",3,0.43,0.05
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","17",4,0.38,0.01
+"42660","Seattle-Tacoma-Bellevue","015","Northern Africa","17",5,0.01,1.37759567952941e-04
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","01",3,1.16,1.44
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","01",4,4.09999916900001e-03,6.99999961500001e-04
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","04",3,0.27,0.05
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","04",4,6.050011226e-03,1.499999125e-04
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","05",3,0.97,0.70
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","06",4,0.01,1.14999984e-03
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","06",5,5.47850839999999e-04,7.68498615592121e-06
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","07",4,5.19999984600001e-03,9.99999980000004e-05
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","08",3,1.17,0.09
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","08",4,0.03,1.15000025e-03
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","09",3,0.02,0.05
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","09",4,0.02,3.99999942499999e-04
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","10",3,0.41,0.09
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","10",4,1.25,1.500000048e-03
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","11",4,0.04,9.99999534999999e-05
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","11",5,5.91664999999998e-06,5.91664999999999e-07
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","12",3,0.09,0.02
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","13",3,0.11,0.12
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","17",3,0.03,0.01
+"42660","Seattle-Tacoma-Bellevue","017","Middle Africa","17",4,0.28,2.0999999385e-03
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","01",3,5.25,4.55
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","01",5,1.05e-03,1.99441340782123e-04
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","03",3,0.08,0.01
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","04",3,0.18,0.07
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","04",5,4.756224775e-04,6.46876482763367e-05
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","05",3,1.98,2.27
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","05",4,1.6000000235e-03,4.99999995000001e-05
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","06",3,0.03,0.01
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","06",4,0.03,2.60000000000001e-03
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","06",5,1.1952428325e-03,4.98017846874999e-05
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","07",3,0.20,0.22
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","08",3,0.71,0.06
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","08",4,0.12,1.95000001150001e-03
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","09",3,0.14,0.04
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","09",4,0.31,2.10000003299999e-03
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","11",4,0.21,1.150000026e-03
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","13",3,6.82144580234605e-03,0.04
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","17",3,0.10,0.02
+"42660","Seattle-Tacoma-Bellevue","029","Caribbean","17",4,0.13,1.8000000025e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","01",3,229.87,167.37
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","01",4,1.08,0.22
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","01",5,0.12,0.01
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","02",3,2.02,8.58
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","03",3,0.13,0.10
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","03",4,2.99627450956559e-03,6.5352374826636e-05
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","04",3,31.99,14.52
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","04",4,1.79,0.04
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","04",5,0.10,7.54262084047468e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","05",3,133.77,152.02
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","05",4,0.09,2.05730896600001e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","05",5,0.02,1.21330275229357e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","06",3,5.96,1.84
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","06",4,0.54,0.01
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","06",5,2.3550018525e-03,7.50837055652199e-05
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","07",3,18.42,18.73
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","07",4,0.23,9.25667473150002e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","07",5,0.10,0.02
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","08",3,139.22,17.98
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","08",4,4.74,0.09
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","08",5,0.67,0.05
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","09",3,6.74,0.62
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","09",4,25.36,0.07
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","09",5,1.34,0.05
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","10",3,111.65,4.70
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","10",4,10.83,0.01
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","10",5,1.77,0.10
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","11",3,10.04,0.20
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","11",4,6.13,0.01
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","11",5,0.05,1.14903615429772e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","12",3,6.32,0.54
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","12",4,0.13,1.1054015635e-03
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","12",5,0.13,0.01
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","13",3,1.19,2.69
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","16",3,8.92,0.15
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","16",4,0.39,0.01
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","17",3,15.57,2.20
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","17",4,1.34,0.05
+"42660","Seattle-Tacoma-Bellevue","053","Australia and New Zealand","17",5,0.30,0.05
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","01",3,6.22,8.45
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","01",4,0.09,7.00501706149999e-03
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","01",5,0.01,1.10981160891613e-03
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","04",3,0.06,0.01
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","05",3,0.18,0.11
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","07",3,0.15,0.26
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","08",3,2.20,0.30
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","08",4,0.01,2.52694330000001e-04
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","09",3,0.15,0.03
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","09",4,0.06,4.52150259999998e-04
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","10",3,11.99,0.92
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","10",4,0.44,5.52417030000002e-04
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","10",5,0.04,6.57375491555378e-05
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","12",3,0.12,0.02
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","17",3,0.17,0.15
+"42660","Seattle-Tacoma-Bellevue","054","Melanesia","17",4,0.05,2.52596879999998e-04
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","01",3,1.69,2.49
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","03",3,6.17958175108125e-03,0.01
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","04",3,0.45,0.25
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","04",4,3.00611089800001e-03,1.004087105e-04
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","05",3,0.80,2.43
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","05",4,2.29411763e-03,2.19999999999999e-04
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","07",3,0.36,0.21
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","08",3,0.14,0.03
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","08",4,0.07,8.59153890000002e-04
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","09",3,0.04,0.01
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","09",4,0.03,2.51192859999998e-04
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","10",3,0.25,0.20
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","10",4,8.75809275000002e-03,1.04812862e-04
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","11",4,6.50837357499997e-03,5.04156554999998e-05
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","12",3,7.62757984199996e-03,1.90803853499999e-03
+"42660","Seattle-Tacoma-Bellevue","057","Micronesia","17",3,0.05,7.02653822250001e-03
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","01",3,0.36,0.53
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","01",4,8.42423420699998e-03,8.84662241099998e-03
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","04",3,5.17915792800001e-03,0.32
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","04",4,5.47255580399998e-03,5.0137076e-05
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","05",3,0.39,0.17
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","06",5,2.140885725e-04,6.82571154897562e-06
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","09",3,0.01,1.44963925599999e-03
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","09",4,0.01,4.01910909999997e-04
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","10",4,0.11,2.00878920000001e-04
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","11",4,0.06,1.51246966499999e-04
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","12",3,0.02,0.01
+"42660","Seattle-Tacoma-Bellevue","061","Polynesia","17",3,3.14854845500002e-03,1.73507928000001e-04
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","01",3,0.67,0.26
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","01",4,0.04,0.02
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","03",3,0.12,0.04
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","03",4,2.24672067556564e-03,5.76658286438131e-03
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","04",3,0.17,0.01
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","04",4,0.03,1.48805492e-04
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","06",3,0.24,0.05
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","07",4,4.70638682800001e-03,3.04537283500001e-04
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","07",5,8.35899747000002e-03,2.5343768925e-03
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","08",3,5.46,0.16
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","08",4,0.66,8.19751536600002e-03
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","09",4,0.07,2.28539206649999e-03
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","10",3,1.87,0.33
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","10",4,0.84,1.1307991675e-03
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","11",4,0.80,3.32684481499999e-03
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","17",3,0.16,0.01
+"42660","Seattle-Tacoma-Bellevue","143","Central Asia","17",4,0.24,7.140653406e-03
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","01",3,183.02,78.08
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","01",4,0.51,0.11
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","01",5,12.36,1.59
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","03",3,5.69,3.53
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","03",4,4.94278539877208e-03,1.34803236384994e-03
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","04",3,12.28,6.52
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","04",4,2.51,0.05
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","04",5,0.56,0.08
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","05",3,3.61,4.50
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","05",4,0.41,0.09
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","05",5,2.69999993149999e-03,9.86896526686208e-03
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","06",3,0.90,0.06
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","06",4,3.43,0.11
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","06",5,0.10,0.01
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","07",3,8.12,14.10
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","07",4,0.84,0.04
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","07",5,0.26,0.15
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","08",3,90.12,13.52
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","08",4,17.81,0.39
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","08",5,0.24,0.01
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","09",3,12.17,0.21
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","09",4,23.20,0.19
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","09",5,1.04,0.06
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","10",3,70.78,6.46
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","10",4,16.81,0.07
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","10",5,299.91,0.30
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","11",3,1.40,0.05
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","11",4,49.40,0.22
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","11",5,0.91,5.73032892825644e-03
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","12",3,26.56,14.05
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","12",4,0.74,0.02
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","12",5,5.25,0.05
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","13",3,0.33,0.67
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","16",3,2.96628570149999e-03,1.84615384e-04
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","16",4,0.16,2.5886366225e-03
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","17",3,8.76,1.39
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","17",4,6.79,0.14
+"42660","Seattle-Tacoma-Bellevue","151","Eastern Europe","17",5,0.20,0.06
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","01",3,50.06,34.02
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","01",4,0.02,3.65000000000001e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","01",5,0.05,7.82818857899999e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","02",3,0.59,2.55
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","03",3,21.73,36.99
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","04",3,2.92,1.74
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","04",4,0.01,6.49999997500001e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","05",3,4.15,7.26
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","05",4,2.59999996299999e-03,1.00000017e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","06",3,2.02,0.19
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","06",4,0.09,2.200000016e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","06",5,0.11,4.61584241272916e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","07",3,0.19,0.23
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","07",4,3.20000018100001e-03,5.00000000000002e-05
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","08",3,6.51,0.99
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","08",4,0.47,3.40000003600002e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","09",3,0.09,0.02
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","09",4,0.20,2.05000005099999e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","10",3,3.17,0.33
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","10",4,0.03,1.49999984e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","10",5,0.11,1.31417381056578e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","11",3,1.20,2.15775377549999e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","11",4,0.80,1.7500000125e-03
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","11",5,0.18,5.57104413347685e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","12",4,4.29999995249998e-03,1.99999999499999e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","13",3,0.16,0.78
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","16",3,2.720553271e-03,5.15803669999999e-05
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","16",4,1.95e-03,2.0e-04
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","17",3,1.65,0.52
+"42660","Seattle-Tacoma-Bellevue","005rem","Remainder of South America","17",4,0.01,5.0e-04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","01",3,38.33,28.98
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","01",4,3.8999999565e-03,7.99999999999999e-04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","01",5,0.34,0.07
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","02",3,0.01,0.04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","04",3,1.92,1.18
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","04",4,0.01,9.99999904999999e-05
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","05",3,3.36,4.08
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","05",4,6.15000001450001e-03,4.99999995000001e-05
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","06",3,0.75,0.30
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","06",4,0.01,1.050000024e-03
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","06",5,0.07,3.02218421102083e-03
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","07",3,0.95,0.92
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","07",4,1.250000015e-03,1.0e-04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","08",3,2.96,0.44
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","08",4,0.18,1.45000002450001e-03
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","08",5,7.82824434750004e-03,7.60919185471287e-04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","09",3,0.11,0.02
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","09",4,0.52,1.550000022e-03
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","10",3,0.22,0.04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","10",5,628.51,0.69
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","11",3,0.07,3.06036841500001e-03
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","11",4,0.38,1.85000003099999e-03
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","12",3,0.04,0.01
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","12",4,0.02,1.500000005e-04
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","13",3,17.71,2.20
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","17",3,0.58,0.26
+"42660","Seattle-Tacoma-Bellevue","013rem","Remainder of Central America","17",4,0.01,5.0e-05
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","03",3,4.190909552748e-07,8.7952271638227e-08
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","03",4,3.89431578053048e-03,8.98688257045496e-03
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","04",4,1.399999931e-03,5.5e-04
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","05",4,5.30000009400001e-03,1.50000006e-04
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","08",4,0.13,1.3999996525e-03
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","09",4,0.04,9.99998999999997e-05
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","11",4,0.07,4.49999921499999e-04
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","11",5,8.65259499999997e-05,8.652595e-06
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","13",3,0.09,0.46
+"42660","Seattle-Tacoma-Bellevue","018rem","Remainder of Southern Africa","17",4,0.03,2.099999814e-03
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","04",4,8.75000063750001e-03,5.99999995000001e-04
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","06",4,0.01,2.0e-04
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","09",3,0.03,3.67590104249999e-03
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","09",4,0.14,6.50000028999997e-04
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","10",3,0.02,4.84117269449999e-03
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","10",4,0.01,6.49999993999999e-04
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","11",3,0.03,2.157752565e-04
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","11",4,0.08,2.49999984e-04
+"42660","Seattle-Tacoma-Bellevue","021rem","Remainder of Northern America","12",3,0.01,6.942526245e-04
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","01",3,0.39,0.16
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","04",3,1.28,0.46
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","04",4,0.46,0.01
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","06",3,1.35,0.18
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","06",4,0.02,8.76205584e-04
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","07",3,9.91901396200001e-03,8.44133857600001e-03
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","08",3,8.13,0.78
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","09",3,0.01,5.26913227499998e-04
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","10",3,98.73,6.03
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","17",3,0.09,0.03
+"42660","Seattle-Tacoma-Bellevue","030rem","Remainder of Eastern Asia","17",4,0.12,6.20816267499998e-04
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","01",3,69.59,200.49
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","01",4,0.63,0.03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","01",5,0.03,3.50000000000001e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","02",3,0.39,1.10
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","02",4,2.2422745e-05,4.2849747e-05
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","03",3,0.01,3.57640554818736e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","03",4,0.02,7.13162225734545e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","04",3,16.75,8.79
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","04",4,0.09,0.01
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","04",5,2.7833333055e-03,1.96648548758153e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","05",3,11.49,24.05
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","05",4,5.70000001899999e-03,4.49999999999999e-04
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","06",3,127.38,16.10
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","06",4,4.97,0.31
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","06",5,1.38,0.12
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","07",3,1.71,1.07
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","07",4,0.07,2.1117340965e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","08",3,8.12,2.62
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","08",4,0.62,0.01
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","09",3,0.62,0.04
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","09",4,1.94,0.02
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","10",3,7.11,0.46
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","10",4,26.01,0.05
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","10",5,0.02,5.82538824840762e-05
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","11",3,0.22,0.02
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","11",4,0.97,7.47728467799998e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","11",5,0.01,5.49267049233169e-04
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","12",3,9.41,4.51
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","12",4,0.02,1.29734523149999e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","13",3,2.78,30.97
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","16",3,0.10,4.550943376e-03
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","17",3,5.29,1.12
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","17",4,1.20,0.07
+"42660","Seattle-Tacoma-Bellevue","034rem","Remainder of Southern Asia","17",5,0.16,4.82596606171428e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","01",3,1050.95,1595.98
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","01",4,5.43,0.87
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","01",5,0.02,6.55752977399999e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","02",3,8.18,63.14
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","02",4,8.0270588185e-03,4.0871428545e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","03",3,1.38,1.67
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","03",4,1.60145796299875e-03,7.84228892202049e-04
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","04",3,295.22,134.85
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","04",4,14.73,0.33
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","04",5,0.03,2.64595579198348e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","05",3,267.17,267.87
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","05",4,0.23,0.02
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","05",5,0.04,0.02
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","06",3,1484.86,118.06
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","06",4,39.43,1.63
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","06",5,1.37,0.04
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","07",3,91.89,101.42
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","07",4,0.94,0.07
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","07",5,0.04,6.43321424938268e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","08",3,212.12,32.34
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","08",4,46.50,0.25
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","08",5,0.03,2.85862809154503e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","09",3,464.06,38.41
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","09",4,1087.05,0.62
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","09",5,1.23,0.05
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","10",3,216.66,15.55
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","10",4,131.95,0.14
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","10",5,1659.18,2.67
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","11",3,57.99,2.51
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","11",4,35.77,0.19
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","11",5,0.10,2.26902222178989e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","12",3,202.14,84.05
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","12",4,0.21,0.01
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","12",5,0.75,0.05
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","13",3,106.12,370.72
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","13",4,0.01,9.92210457276735e-05
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","16",3,2.43,0.28
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","16",4,0.05,1.254940721e-03
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","17",3,198.17,47.88
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","17",4,3.96,0.12
+"42660","Seattle-Tacoma-Bellevue","035rem","Remainder of South-Eastern Asia","17",5,0.07,3.12065879245374e-03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","01",3,15.74,9.63
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","01",4,8.75,0.26
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","01",5,0.07,0.03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","02",3,0.01,0.01
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","02",4,0.03,0.01
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","02",5,0.01,0.02
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","03",4,2.17182996950475e-03,4.41855061885865e-03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","04",3,1.42,0.65
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","04",4,6.60,0.10
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","04",5,0.71,0.10
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","05",3,1.32,1.22
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","05",4,0.30,0.02
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","05",5,0.21,0.19
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","06",3,1.34,0.15
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","06",4,12.93,0.34
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","06",5,2.38,0.25
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","07",3,6.92,6.29
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","07",4,2.22,0.12
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","07",5,0.02,0.03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","08",3,7.50,0.75
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","08",4,30.50,0.49
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","08",5,0.81,0.06
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","09",3,3.02,0.09
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","09",4,37.33,0.38
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","09",5,0.35,0.02
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","10",3,7.29,1.04
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","10",4,68.96,0.32
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","10",5,4.66,0.04
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","11",3,1.02,6.021790428e-03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","11",4,29.69,0.09
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","11",5,0.19,1.26202956805343e-03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","12",3,4.09,3.31
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","12",4,0.49,0.03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","12",5,3.80,0.04
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","13",3,3.03,3.16
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","13",4,0.07,1.98442094928084e-04
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","16",4,0.16,2.102979064e-03
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","16",5,2.6232777e-05,2.614263e-06
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","17",3,0.83,0.10
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","17",4,13.47,0.37
+"42660","Seattle-Tacoma-Bellevue","039rem","Remainder of Southern Europe","17",5,6.98,0.89
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","01",3,219.23,459.05
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","01",4,0.82,0.15
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","02",3,1.22,1.47
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","02",4,1.80321385e-04,4.36881141e-04
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","03",3,0.05,0.05
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","03",4,0.01,0.02
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","04",3,13.22,8.83
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","04",4,5.99,0.05
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","04",5,8.90666694500001e-04,6.29275381983696e-04
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","05",3,17.61,33.74
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","05",4,0.88,0.02
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","06",3,19.13,1.65
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","06",4,1.68,0.02
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","06",5,0.13,0.01
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","07",3,35.74,19.40
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","07",4,1.22,0.08
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","07",5,9.89922620000002e-03,9.83598382615958e-03
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","08",3,41.39,8.48
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","08",4,11.14,0.13
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","08",5,0.05,8.76115399433147e-04
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","09",3,7.54,1.56
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","09",4,27.17,0.10
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","09",5,0.82,0.13
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","10",3,8.93,1.87
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","10",4,24.96,0.08
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","10",5,4499.96,9.72
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","11",3,35.52,0.78
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","11",4,32.33,0.12
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","11",5,0.09,7.49171975157073e-04
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","12",3,2.51,1.62
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","12",4,0.66,0.02
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","13",3,1.23,9.36
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","13",4,0.01,4.96105228638368e-05
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","16",3,1.43,8.84905662399997e-03
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","16",4,0.03,3.8783786e-04
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","17",3,31.14,11.62
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","17",4,7.09,0.13
+"42660","Seattle-Tacoma-Bellevue","145rem","Remainder of Western Asia","17",5,2.87387419000002e-03,2.04487201980771e-04
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","01",3,35.29,17.33
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","01",4,3.01,0.21
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","01",5,2.43,0.90
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","02",3,0.48,0.95
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","02",4,2.96075504e-04,1.46253527e-03
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","03",3,0.53,0.06
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","04",3,7.08,2.20
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","04",4,28.52,0.35
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","04",5,1.33,0.22
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","05",3,2.07,0.64
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","05",4,0.70,0.10
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","05",5,0.07,0.03
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","06",3,0.88,0.10
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","06",4,4.43,0.11
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","06",5,0.48,0.05
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","07",3,1.53,0.21
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","07",4,4.19,0.14
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","07",5,0.05,0.03
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","08",3,49.65,5.02
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","08",4,33.23,0.47
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","08",5,2.45,0.18
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","09",3,38.66,1.00
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","09",4,87.95,0.41
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","09",5,0.73,0.04
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","10",3,17.26,1.44
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","10",4,35.80,0.09
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","10",5,3321.05,3.38
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","11",3,0.99,0.08
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","11",4,36.59,0.12
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","11",5,0.57,3.88015630032713e-03
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","12",3,9.55,7.34
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","12",4,0.50,0.01
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","12",5,0.14,1.56894279842243e-03
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","13",3,0.06,0.50
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","13",4,0.06,1.48831566607089e-04
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","16",4,0.17,7.54443362499999e-04
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","16",5,9.96095313450001e-03,9.92672305499999e-04
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","17",3,5.69,1.00
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","17",4,10.61,0.28
+"42660","Seattle-Tacoma-Bellevue","154rem","Remainder of Northern Europe","17",5,2.08,0.70
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","01",3,25.90,12.83
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","01",4,3.47,0.35
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","01",5,5.38,2.53
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","02",3,1.42,14.51
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","02",4,5.58836022e-03,3.408705399e-03
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","02",5,5.0131125e-03,0.01
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","03",3,3.38215541498051e-03,1.64983237733311e-04
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","04",3,12.48,5.23
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","04",4,7.44,0.09
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","04",5,1.15,0.19
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","05",3,1.28,2.42
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","05",4,0.28,0.03
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","06",3,1.67,0.22
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","06",4,4.79,0.13
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","06",5,1.81,0.19
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","07",3,1.50,1.04
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","07",4,4.60,0.16
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","07",5,0.78,0.34
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","08",3,28.07,5.51
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","08",4,32.89,0.48
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","08",5,6.90,0.51
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","09",3,30.03,0.93
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","09",4,10.64,0.05
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","09",5,1.05,0.06
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","10",3,4.78,0.57
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","10",4,42.96,0.28
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","10",5,318.07,0.33
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","11",3,1.08,0.03
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","11",4,23.14,0.11
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","11",5,0.38,2.88723217377426e-03
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","12",3,1.53,0.59
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","12",4,0.30,0.01
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","12",5,4.81087466950001e-03,5.1501570720633e-05
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","13",3,5.36,0.55
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","13",4,4.0184520989571e-03,2.48052623249078e-04
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","16",4,341.78,0.04
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","16",5,1.551515679e-03,1.54618401e-04
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","17",3,8.23,0.70
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","17",4,9.55,0.14
+"42660","Seattle-Tacoma-Bellevue","155rem","Remainder of Western Europe","17",5,3.70,0.67

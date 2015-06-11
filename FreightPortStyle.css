@@ -1,0 +1,240 @@
+#FreightPorts .clear-fix:after{display:table; content:""; clear:both;}
+
+#FreightPorts div{padding:0px; margn:0px; border:0px;}
+#FreightPorts p{font-family: arial, helvetica; font-size:15px; margin:0px; padding:0px; color:#333333;}
+#FreightPorts text{font-family: Arial, helvetica; font-size:15px; fill:#333333;}
+#FreightPorts text.gray-text{fill:#999999;}
+#FreightPorts rect{shape-rendering:crispEdges;}
+
+#FreightPorts .rank-box{padding:10px 1.25% 10px 1.25%; border:1px solid #dddddd; float:left; height:100px; margin-top:1%;}
+#FreightPorts .rank-box:last-child{margin-right:0px !important;}
+#FreightPorts .rank-box > div > div{min-height:20px;position:relative;}
+#FreightPorts .rank-box > div > div > p{}
+
+#FreightPorts .big-blue-text{font-size:36px; font-weight:bold; color: #20558a; margin:5px 0px 5px 0px;}
+#FreightPorts .rank-box-title{font-weight:bold;font-size:16px;}
+#FreightPorts .rank-box-footer{color: #999999;font-style:italic; font-size:13px;}
+
+#FreightPorts .freight-table-row{display:table-row;}
+#FreightPorts .freight-table-cell{display:table-cell; vertical-align:bottom; padding:6px 4px 2px 4px; border-bottom:1px solid #dddddd; font-size:13px;}
+#FreightPorts .freight-table-row:last-child .freight-table-cell{border:none;}
+
+#FreightPorts #freight-port-mode svg{
+	width:100%;
+	width:-webkit-calc(100% - 50px);
+	width:-moz-calc(100% - 50px);
+	width:-o-calc(100% - 50px);
+	width:calc(100% - 50px);
+}
+
+#FreightPorts #freight-port-mode, #FreightPorts #freight-port-comm{margin-top:1%;}
+
+#FreightPorts #freight-port-odd{display:table;float:left;margin-top:1%;padding:1.25% 1.25% 1.25% 1.25%;border:1px solid #dddddd;}
+#FreightPorts #freight-port-odi{display:table;clear:left;float:left;margin-top:1%;padding:1.25% 1.25% 1.25% 1.25%;border:1px solid #dddddd;}
+
+@media (min-width:0px){
+	#FreightPorts .rank-box{width:97.5%;margin-right:0px;margin-left:0px;clear:both;}
+	#FreightPorts #freight-port-mode, #FreightPorts #freight-port-comm{padding:1.25% 1.25% 1.25% 1.25%;border:1px solid #dddddd;width:97.5%;}
+	#FreightPorts #freight-port-mode{margin-right:1%;}
+	#FreightPorts #freight-port-odi{width:97.5%;margin-right:0px;}
+	#FreightPorts #freight-port-odd{width:97.5%;}
+}
+
+@media (min-width:640px){
+	#FreightPorts .rank-box{width:30%;margin-right:1%;margin-right:calc(1.25% - 3px);clear:none;}
+	#FreightPorts #freight-port-mode{padding:1.5% 1.25% 1.25% 1.25%; width:50%; width:calc(54% - 4px); float:left; margin-right:1%;}
+	#FreightPorts #freight-port-comm{padding:1.5% 1.25% 1.25% 1.25%; width:40%; float:left;}
+	#FreightPorts #freight-port-odi{width:46%; width: calc(47% - 2px); margin-right:1%;}
+	#FreightPorts #freight-port-odd{width:46%; width: calc(47% - 2px);}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#CityIncomes text{fill:#333333;}
+#CityIncomes text.stacked-bar-label{font-size:12px;}
+#CityIncomes.CIMobile text.stacked-bar-label{font-size:11px;}
+
+#CityIncomes .pctl-button{
+	vertical-align:top;
+	cursor:pointer;
+	padding:0px;
+	height:auto;
+	min-height:20px;
+	margin-top:5px;
+	background-color:#eeeeee;
+	float:left;
+	position:relative;
+	border:0px solid #dddddd;
+	border-radius:5px;
+}
+
+#CityIncomes .pctl-button div{
+	width:18px;
+	height:100%;
+	position:absolute;
+	left:0px;
+	top:0px;
+	padding:0px;
+	border-radius: 5px 0px 0px 5px;
+	border-right:1px solid #ffffff;
+}
+
+#CityIncomes .pctl-button p{
+	font-size:13px;
+	pointer-events:none;
+	line-height:22px;	
+	padding:3px 0px 1px 26px;
+}
+
+#CityIncomes .pctl-button.button-selected{
+	background-color:#cccccc;
+}
+
+#CityIncomes .place-tile{
+	padding:10px 0px 5px 5px;
+	border:1px dotted #bbbbbb;
+	border-width:0px 0px 0px 0px;
+	margin:0px;
+	position:relative;
+	cursor:default;
+}
+
+#CityIncomes .pin-tile{
+	position:absolute;
+	top:10px;
+	right:5px;
+	cursor:pointer;
+	padding:1px 4px 1px 4px;
+	border-radius:5px;
+	background:#eeeeee;
+	color:#666666;
+	font-size:11px;
+	line-height:13px;
+
+	/*prevent text from being selectable*/
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#CityIncomes.max-pinned #CityList .pin-tile{
+	display:none;
+}
+
+#CityIncomes .place-tile.hidden-tile, #CityIncomes .place-tile.place-is-pinned{
+	display:none;
+}
+
+#CityIncomes #limit-100k > div{
+	width:12px;
+	height:12px;
+	position:absolute;
+	top:6px;
+	left:8px;
+	pointer-events:none;
+	border:1px solid #666666;
+}
+
+#CityIncomes #limit-100k > div > div{
+	width:10px;
+	height:10px;
+	border:1px solid #ffffff;
+	background-color:#ffffff;
+}
+
+#CityIncomes #limit-100k.limit-100k-selected > div > div{background-color:#666666;}
+
+#CityIncomes.big-cities-only .place-tile.small-city{
+	display:none;
+}
+
+#CityIncomes .place-tile svg.stacked-bar{
+	width:100%;
+	height:25px;
+}
+
+#CityIncomes .place-tile svg.stacked-bar text.white-text{
+	fill:#ffffff;
+}
+
+#CityIncomes .place-tile svg.stacked-bar text.hide-label{
+	display:none;
+}
+
+#CityIncomes .place-tile svg.stacked-bar rect{
+	shape-rendering:crispEdges;
+}
+
+#CityIncomes .place-tile.now-open{
+	cursor:default;
+}
+
+#CityIncomes .place-tile .distribution-wrap .legend-entry{
+	float:left;
+	position:relative;
+	margin:4px 0px 4px 0px;
+}
+
+#CityIncomes .place-tile .distribution-wrap .legend-swatch{
+	height:11px;
+	width:11px;
+	position:absolute;
+	left:15px;
+	top:0px;
+}
+
+#CityIncomes .place-tile .distribution-wrap .legend-swatch-text{
+	font-size:13px;
+	line-height:13px;
+	margin-right:8px;
+	padding-left:29px;
+}
+
+
+#CityIncomes .tile-title{
+	font-weight:bold;
+	margin-bottom:5px;
+	padding-right:50px;
+	padding-left:5px;
+}
+
+#CityIncomes .buttonSelected div.buttonFill{
+  background-color:#666666;
+}
+
+
+
+@media (min-width:0px){
+	#CityIncomes .pctl-button{width:96%;margin-right:0px;margin-left:2%;}
+	#CityIncomes #sort-rank-button{margin-left:10px;}
+	#CityIncomes #place-search{width:95%;width:calc(98% - 10px); padding-left:10px;clear:both;}
+	#CityIncomes #limit-100k{width:100%;border-width:1px 0px 0px 0px;clear:both;}
+}
+
+@media (min-width:400px){
+	#CityIncomes .pctl-button{width:47%;margin-left:2%;margin-right:0px;}
+	#CityIncomes #sort-rank-button{margin-left:10px;}
+}
+
+@media (min-width:640px){
+	#CityIncomes .pctl-button{width:32%;margin-left:1%;margin-right:0px;}
+	#CityIncomes #sort-rank-button{margin-left:10px;}
+	#CityIncomes #place-search{width:35%;width:calc(45% - 10px);padding-left:10px;clear:none;}
+	#CityIncomes #limit-100k{width:55%;margin-left:-1px;border-width:0px 0px 0px 1px;clear:none;}
+}
